@@ -1,33 +1,36 @@
 # Hand Gesture Controlled Mouse Movement
- This project implements a real-time hand gesture-based cursor control system using computer vision. It leverages Python, OpenCV, and MediaPipe to detect hand landmarks and control the mouse cursor with simple hand gestures—eliminating the need for traditional input devices like a mouse or trackpad.
+This project implements a real-time hand gesture-based mouse control system using computer vision. It leverages Python, OpenCV, and MediaPipe to detect hand landmarks and control the system cursor with simple gestures—eliminating the need for traditional input devices like a mouse or trackpad.
 
- **Features**
-Real-time hand tracking and gesture recognition
+✅ **Features**:
 
-Cursor movement based on index finger position
+🎯 Real-time hand tracking and gesture recognition
 
-Gesture-based click events (e.g., pinching for click)
+🖱️ Cursor movement based on index finger position
 
-No external sensors or hardware required—only a webcam
+✊ Gesture-based click events (e.g., pinching for click)
 
-Highly responsive and intuitive interaction
+🧩 No external sensors or hardware required—just a webcam
 
-Enhances accessibility for differently-abled users
+⚡ Highly responsive and intuitive interaction
 
-🛠**Tech Stack**
+♿ Enhances accessibility for differently-abled users
+
+🛠 **Tech Stack**:
+
 Language: Python
 
 Libraries: OpenCV, MediaPipe, NumPy, PyAutoGUI
 
-Platform: Cross-platform (Windows/Linux)
+Platform: Cross-platform (Windows / Linux)
 
-Hardware: Standard webcam
+Hardware: Standard HD webcam
 
-**Use Cases**
-Touchless control for hygiene-sensitive environments
+💡 **Use Cases**:
 
-Assistive technology for people with limited mobility
+🧼 Touchless control in hygiene-sensitive environments
 
-Smart home interfaces
+👨‍🦽 Assistive technology for people with limited mobility
 
-Virtual and augmented reality interactions
+🏠 Smart home interfaces
+
+🎮 Virtual and augmented reality interactions
